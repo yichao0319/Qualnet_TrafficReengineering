@@ -1,4 +1,10 @@
 -------------------
+Project:
+2012 
+Mobile Adaptive Streaming over HTTP
+
+
+-------------------
 Goal:
 In hidden terminal scenario, offload/onload traffic between wifi link and cellular link to optimize throughput
 
@@ -50,7 +56,7 @@ Qualnet read the following configure files:
 - SelectLink.nodes
 - SelectLink.routes-static
 
-I use the following configure to test Qulnet configuration works ok
+Following configure files are used to test hidden terminal
 - SelectLink.test.config
 - SelectLink.test.app
 
